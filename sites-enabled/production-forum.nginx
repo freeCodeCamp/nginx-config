@@ -1,0 +1,25 @@
+###
+# production-forum-proxy
+###
+
+server {
+  listen 443 ssl;
+  server_name forum.freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+  include snippets/netlify-redirects.nginx;
+ 
+  return 301 https://www.freecodecamp.org/forum$request_uri;
+
+}
+
+# redirect non http to https://www
+
+server {
+  listen 80;
+  server_name forum.freecodecamp.org;
+
+  return 301 https://www.freecodecamp.org/forum$request_uri;
+}
+

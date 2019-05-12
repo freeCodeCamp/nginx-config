@@ -1,0 +1,29 @@
+###
+# production-proxy
+###
+
+
+server {
+  listen 443 ssl;
+  server_name learn.freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+  include snippets/netlify-redirects.nginx;
+
+  location / {
+
+    return 302 https://maintenance-page.freecodecamp.org;
+  }
+
+}
+
+# redirect non http to https://learn
+
+server {
+  listen 80;
+  server_name learn.freecodecamp.org;
+
+  return 301 https://learn.freecodecamp.org$request_uri;
+}
+

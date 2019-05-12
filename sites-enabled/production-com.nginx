@@ -1,0 +1,9 @@
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name freecodecamp.com www.freecodecamp.com;
+
+  include snippets/ssl.conf;
+  return 302 https://www.freecodecamp.org$request_uri;
+}
+

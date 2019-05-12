@@ -1,0 +1,16 @@
+map_hash_bucket_size 128;
+map $uri $new_blog {
+  default https://medium.freecodecamp.org;
+  include /etc/nginx/blog.map;
+}
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name blog.freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+
+  return 302 $new_blog;
+}
+

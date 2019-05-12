@@ -1,0 +1,11 @@
+###
+# news-proxy
+###
+
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name news.freecodecamp.org;
+
+  return 301 https://www.freecodecamp.org/news;
+}

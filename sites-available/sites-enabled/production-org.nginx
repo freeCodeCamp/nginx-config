@@ -1,0 +1,39 @@
+###
+# production-proxy
+###
+
+
+server {
+  listen 443 ssl;
+  server_name www.freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+  include snippets/netlify-redirects.nginx;
+
+  location / {
+
+    proxy_pass http://10.0.0.7:45454;
+    include snippets/proxy-params.nginx;
+  }
+
+}
+
+# redirect non http to https://test-domain
+server {
+  listen 80;
+  server_name freecodecamp.org www.freecodecamp.org;
+
+  return 301 https://www.freecodecamp.org$request_uri;
+}
+
+server {
+  listen 443 ssl;
+  server_name freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+
+  return 301 https://www.freecodecamp.org&request_uri;
+}
+

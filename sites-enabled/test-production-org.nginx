@@ -1,0 +1,27 @@
+###
+# test-domain production-proxy
+###
+
+ server {
+  listen 443 ssl;
+  server_name test-domain.freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+
+  location / {
+
+    proxy_pass http://10.0.0.7:45454;
+    include snippets/proxy-params.nginx;
+  }
+
+}
+
+# redirect non http to https://test-domain
+server {
+  listen 80;
+  server_name test-domain.freecodecamp.org;
+
+  return 301 https://test-domain.freecodecamp.org$request_uri;
+}
+

@@ -1,0 +1,5 @@
+# prevent non traffic
+server {
+  # returning 444 here will immediately drop the connection
+  return 444;
+}

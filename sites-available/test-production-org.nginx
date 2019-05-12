@@ -1,0 +1,26 @@
+###
+# production-proxy
+###
+
+ server {
+  listen 443 ssl;
+  server_name api.freecodecamp.rocks;
+
+  ssl on;
+  include snippets/ssl.conf;
+
+  location / {
+
+    proxy_pass http://40.121.33.9:45454;
+    include snippets/proxy-params.nginx;
+  }
+}
+
+# redirect non http to https://test-domain
+server {
+  listen 80;
+  server_name api.freecodecamp.rocks;
+
+  return 301 https://api.freecodecamp.rocks$request_uri;
+}
+
