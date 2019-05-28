@@ -1,0 +1,36 @@
+###
+# test-domain production-proxy
+###
+
+ server {
+  listen 443 ssl;
+  server_name www-dev.freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+
+  location / {
+
+	return 302 https://maintenance.freecodecamp.org;
+
+  }
+
+  location /news {
+
+#  Use the below to take down the forum
+#  Comment out all the proxy stuff below in this location block also
+   alias /var/www/maintenance-page/;
+
+#    proxy_pass http://10.0.0.5:32323;
+#    include snippets/proxy-params.nginx;
+  }
+
+}
+
+# redirect non http to https://test-domain
+server {
+  listen 80;
+  server_name www-dev.freecodecamp.org;
+  return 301 https://www-dev.freecodecamp.org$request_uri;
+}
+

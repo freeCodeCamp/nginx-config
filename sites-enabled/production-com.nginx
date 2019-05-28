@@ -1,3 +1,7 @@
+###
+# .com redirects
+###
+
 server {
   listen 80;
   listen 443 ssl;
@@ -5,5 +9,32 @@ server {
 
   include snippets/ssl.conf;
   return 302 https://www.freecodecamp.org$request_uri;
+}
+
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name guide.freecodecamp.com guides.freecodecamp.com;
+
+  include snippets/ssl.conf;
+  return 302 https://guide.freecodecamp.org$request_uri;
+}
+
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name learn.freecodecamp.com;
+
+  include snippets/ssl.conf;
+  return 302 https://learn.freecodecamp.org$request_uri;
+}
+
+server {
+  listen 80;
+  listen 443 ssl;
+  server_name forum.freecodecamp.com forums.freecodecamp.com;
+
+  include snippets/ssl.conf;
+  return 302 https://www.freecodecamp.org/forum$request_uri;
 }
 
