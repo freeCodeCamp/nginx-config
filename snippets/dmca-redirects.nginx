@@ -1,0 +1,38 @@
+
+####
+# DMCA Subjectline: [aa69ae65abbe5000]: Cloudflare received a DMCA copyright infringement complaint regarding your site.
+#
+location ~ /news/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c {
+  return 301 https://medium.com/free-code-camp/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c;
+}
+location ~ /news/the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896 {
+  return 301 https://medium.com/@kyle.galbraith/the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896;
+}
+location ~ /news/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096 {
+  return 301 https://medium.com/free-code-camp/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096;
+}
+location ~ /news/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38 {
+  return 301 https://medium.com/free-code-camp/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38;
+}
+####
+
+####
+location ~ /news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c {
+  return 301 https://www.freecodecamp.org/news;
+}
+####
+
+####
+location ~ /news/how-to-get-up-to-3500-github-stars-in-one-week {
+  return 301 https://www.freecodecamp.org/news;
+}
+####
+
+####
+location ~ /news/learning-new-things-like-cryptography-ebabc87c8b8 {
+  return 301 https://www.freecodecamp.org/news;
+}
+location ~ /news/a-review-of-udacitys-self-driving-car-nanodegree-third-term-and-beyond-cccc165a27a2 {
+  return 301 https://www.freecodecamp.org/news;
+}
+####

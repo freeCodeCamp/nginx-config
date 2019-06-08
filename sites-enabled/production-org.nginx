@@ -2,6 +2,12 @@
 # production-proxy
 ###
 
+map $status $log_4xx_5xx {
+    ~^[4]   1;
+    ~^[5]   1;
+    default 0;
+}
+
 server {
   listen 443 ssl;
   server_name www.freecodecamp.org;
@@ -10,6 +16,7 @@ server {
   include snippets/ssl.conf;
   include snippets/netlify-redirects.nginx;
   include snippets/cloudflare.nginx;
+  include snippets/dmca-redirects.nginx;
 
   location / {
 
@@ -21,14 +28,16 @@ server {
     include snippets/proxy-params.nginx;
   }
 
-  location /news {
+  location  /news {
 
 #  Use the below to take down the forum
 #  Comment out all the proxy stuff below in this location block also
-#   alias /var/www/maintenance-page/;
+#  alias /var/www/maintenance-page/;
 
+    access_log /var/log/nginx/access.log combined if=$log_4xx_5xx;
     proxy_pass http://10.0.0.5:32323;
     include snippets/proxy-params.nginx;
+    
   }
 
   location /forum {
@@ -43,22 +52,19 @@ server {
 
 }
 
-# redirect non http to https://www
-
+# redirect "http  tld (root domain)" and "http www subdomain" to "https www subdomain"
 server {
   listen 80;
   server_name freecodecamp.org www.freecodecamp.org;
-
   return 301 https://www.freecodecamp.org$request_uri;
 }
 
+# redirect "https tld (root domain)" to "https www subdomain"
 server {
   listen 443 ssl;
   server_name freecodecamp.org;
-
   ssl on;
   include snippets/ssl.conf;
-
   return 301 https://www.freecodecamp.org$request_uri;
 }
 
