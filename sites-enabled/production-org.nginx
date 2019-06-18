@@ -49,9 +49,8 @@ server {
 
   }
 
-
-  error_page 503 /index.html;
-  location = /index.html {
+  error_page 503 /down-right-now.html;
+  location = /down-right-now.html {
     root /var/www/maintenance-page/;
   }
 
