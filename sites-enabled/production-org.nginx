@@ -20,19 +20,16 @@ server {
 
   location / {
 
-#  Use the below to take down the forum
-#  Comment out all the proxy stuff below in this location block also
-#    return 302 https://maintenance.freecodecamp.org;
-
     proxy_pass http://10.0.0.6:45454;
     include snippets/proxy-params.nginx;
+
   }
 
   location  /news {
-
-#  Use the below to take down the forum
-#  Comment out all the proxy stuff below in this location block also
-#  alias /var/www/maintenance-page/;
+    
+    if (-f /var/www/maintenance-page/NEWS.txt) {
+      return 503;
+    }
 
     access_log /var/log/nginx/access.log combined if=$log_4xx_5xx;
     proxy_pass http://10.0.0.5:32323;
@@ -41,13 +38,21 @@ server {
   }
 
   location /forum {
- 
-#  Use the below to take down the forum
-#  Comment out all the proxy stuff below in this location block also  
-#    alias /var/www/maintenance-page/;
 
+    if (-f /var/www/maintenance-page/FORUM.txt) {
+      return 503;
+    }
+
+    access_log /var/log/nginx/access.log combined if=$log_4xx_5xx;
     proxy_pass http://174.138.37.36;
     include snippets/proxy-params.nginx;
+
+  }
+
+
+  error_page 503 /index.html;
+  location = /index.html {
+    root /var/www/maintenance-page/;
   }
 
 }
