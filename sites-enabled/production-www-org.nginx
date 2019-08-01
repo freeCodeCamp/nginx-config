@@ -37,6 +37,18 @@ server {
     
   }
 
+  location  /news/ghost {
+    
+    if (-f /var/www/maintenance-page/NEWS-ADMIN.txt) {
+      return 503;
+    }
+
+    access_log /var/log/nginx/access.log combined if=$log_4xx_5xx;
+    proxy_pass http://10.0.0.5:32323;
+    include snippets/proxy-params.nginx;
+    
+  }
+
   location /forum {
 
     if (-f /var/www/maintenance-page/FORUM.txt) {
