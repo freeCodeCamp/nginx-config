@@ -1,0 +1,42 @@
+###
+# production-forum-proxy
+###
+
+server {
+  listen 443 ssl;
+  server_name forum-proxy.freecodecamp.org;
+
+  ssl on;
+  include snippets/ssl.conf;
+
+  location / {
+
+    return 302 /forum;
+
+  }
+ 
+  location /forum {
+
+    if (-f /var/www/maintenance-page/FORUM.txt) {
+      return 503;
+    }
+
+    access_log /var/log/nginx/access.log combined if=$log_4xx_5xx;
+    proxy_pass http://174.138.37.36;
+    include snippets/proxy-params.nginx;
+
+  }
+
+    ssl_certificate /etc/letsencrypt/live/forum-proxy.freecodecamp.org/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/forum-proxy.freecodecamp.org/privkey.pem; # managed by Certbot
+}
+
+# redirect non http to https://www
+
+server {
+  listen 80;
+  server_name forum-proxy.freecodecamp.org;
+
+  return 301 https://forum-proxy.freecodecamp.org/forum$request_uri;
+}
+

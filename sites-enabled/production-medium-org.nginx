@@ -1,4 +1,3 @@
-map_hash_bucket_size 256;
 map $request_uri $news_uri {
   include /etc/nginx/medium.map;
   default $request_uri;
