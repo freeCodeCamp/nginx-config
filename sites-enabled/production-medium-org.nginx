@@ -1,5 +1,5 @@
 map $request_uri $news_uri {
-  include /etc/nginx/medium.map;
+  include /etc/nginx/maps/medium.map;
   default $request_uri;
 }
 
@@ -9,7 +9,7 @@ server {
 
   ssl on;
   include snippets/ssl.conf;
- 
+
   return 301 https://www.freecodecamp.org/news$news_uri;
 }
 
