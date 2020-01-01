@@ -16,8 +16,8 @@ server {
   server_name api.freecodecamp.org;
 
   ssl on;
-  include snippets/ssl.conf;
-  include snippets/cloudflare.nginx;
+  include snippets/ssl;
+  include snippets/cloudflare;
 
   location / {
 
@@ -26,7 +26,7 @@ server {
     }
 
     proxy_pass http://api;
-    include snippets/proxy-params.nginx;
+    include snippets/proxy-params;
 
   }
 
@@ -40,7 +40,7 @@ server {
   if ($host = api.freecodecamp.org) {
        return 301 https://$host$request_uri;
   }
- 
+
   listen 80;
   server_name api.freecodecamp.org;
   return 301 https://api.freecodecamp.org$request_uri;

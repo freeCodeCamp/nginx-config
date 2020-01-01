@@ -7,14 +7,14 @@ server {
   server_name forum-proxy.freecodecamp.org;
 
   ssl on;
-  include snippets/ssl.conf;
+  include snippets/ssl;
 
   location / {
 
     return 302 /forum;
 
   }
- 
+
   location /forum {
 
     if (-f /var/www/maintenance-page/FORUM.txt) {

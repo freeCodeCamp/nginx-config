@@ -8,7 +8,7 @@ server {
   server_name medium.freecodecamp.org medium.freecodecamp.com;
 
   ssl on;
-  include snippets/ssl.conf;
+  include snippets/ssl;
 
   return 301 https://www.freecodecamp.org/news$news_uri;
 }

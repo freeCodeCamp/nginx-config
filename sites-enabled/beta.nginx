@@ -17,7 +17,7 @@ server {
   server_name beta.freecodecamp.org;
 
   ssl on;
-  include snippets/ssl.conf;
+  include snippets/ssl;
 
   return 301 https://www.freecodecamp.org$request_uri;
 }

@@ -8,7 +8,7 @@ server {
   server_name www.opensourceforgood.org;
 
   ssl on;
-  include snippets/ssl.conf;
+  include snippets/ssl;
 
   location / {
     proxy_pass https://freecodecamp.github.io/open-source-for-good-directory$request_uri;
@@ -37,7 +37,7 @@ server {
   server_name opensourceforgood.org;
 
   ssl on;
-  include snippets/ssl.conf;
+  include snippets/ssl;
 
   return 302 $scheme://www.opensourceforgood.org$request_uri;
 }
