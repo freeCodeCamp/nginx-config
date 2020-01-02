@@ -40,10 +40,6 @@ server {
     
   }
 
- 
-
-    ssl_certificate /etc/letsencrypt/live/forum-proxy.freecodecamp.org/fullchain.pem; # managed by Certbot
-    ssl_certificate_key /etc/letsencrypt/live/forum-proxy.freecodecamp.org/privkey.pem; # managed by Certbot
 }
 
 # redirect non http to https://www
