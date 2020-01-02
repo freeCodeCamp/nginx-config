@@ -1,2 +1,4 @@
 ssl/*
 *.pem
+maintenance/
+configs/
