@@ -1,0 +1,17 @@
+# 301 redirects
+# certification 
+~^/(.*)/front-end-certification/?$ /certification/$1/legacy-front-end;
+~^/(.*)/data-visualization-certification/?$ /certification/$1/legacy-data-visualization;
+~^/(.*)/back-end-certification/?$ /certification/$1/legacy-back-end;
+~^/(.*)/full-stack-certification/?$ /certification/$1/full-stack;
+
+# misc 
+~^/agile/?$ /;
+~^/all-stories/?$ /;
+~^/chat/?$ https://gitter.im/FreeCodeCamp/FreeCodeCamp;
+~^/field-guide/?(.*)?$ /;
+~^/how-nonprofit-projects-work/?$ /;
+~^/learn-to-code/?$ /learn;
+~*^/nonprofits(-form)?/?$ /;
+~^/pmi-acp-agile-project-managers(-form)?/?$ /;
+~^/twitch/?$ https://twitch.tv/freecodecamp;
