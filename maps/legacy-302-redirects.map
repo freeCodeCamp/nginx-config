@@ -2,7 +2,7 @@
 
 # news pages
 ~^/about/?$ /news/about;
-~^/academic-honesty/?$ /news/academic-honesty;
+~^/academic-honesty/?$ /news/academic-honesty-policy;
 ~^/code-of-conduct/?$ /news/code-of-conduct;
 ~^/copyright/?$ /news/copyright-policy;
 ~^/copyright-policy/?$ /news/copyright-policy;
