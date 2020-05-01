@@ -1,3 +1,4 @@
+# guide to news redirects
 ~^/python/is-there-a-way-to-substring-a-string-in-python/?$ /news/how-to-substring-a-string-in-python/; #2
 ~^/python/how-to-convert-strings-into-integers-in-python/?$ /news/how-to-convert-strings-into-integers-in-python/; #3
 ~^/python/converting-integer-to-string-in-python/?$ /news/python-string-to-int-how-to-convert-a-string-to-an-integer-in-python/; #4
@@ -170,7 +171,7 @@
 ~^/nodejs/express/?$ /news/express-explained-with-examples-installation-routing-middleware-and-more/; #171
 ~^/algorithms/algorithm-design-patterns/?$ /news/the-basic-design-patterns-all-developers-need-to-know/; #172
 ~^/typescript/?$ /news/what-is-typescript/; #173
-~^/certifications/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register/?$ /forum/t/freecodecamp-challenge-guide-cash-register/16012; #174
+#174
 ~^/python/lists/list-pop/?$ /news/pop-function-in-python/; #175
 ~^/python/lambda-expressions/?$ /news/lambda-expressions-in-python/; #176
 ~^/javascript/html-dom-queryselector/?$ /news/html-dom-methods/; #177
@@ -184,7 +185,7 @@
 ~^/javascript/standard-objects/array/array-prototype-filter/?$ /news/javascript-standard-objects-arrays/; #185
 ~^/angular/command-line-interface/?$ /news/angular-command-line-interface-explained/; #186
 ~^/algorithms/graph-algorithms/floyd-warshall-algorithm/?$ /news/graph-algorithms-explained/; #187
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects/?$ /forum/t/freecodecamp-challenge-guide-add-key-value-pairs-to-javascript-objects/301153; #188
+#188
 ~^/python/rest-api-with-falcon/?$ /news/build-restful-apis-with-falcon/; #189
 ~^/javascript/standard-objects/array/array-prototype-reduce/?$ /news/javascript-standard-objects-arrays/; #190
 ~^/r/?$ /news/r-programming-language-explained/; #191
@@ -206,7 +207,7 @@
 ~^/computer-science/assembly-language/?$ /news/what-are-assembly-languages/; #207
 ~^/python/nested-functions/?$ /news/nested-functions-in-python/; #208
 ~^/algorithms/search-algorithms/binary-search/?$ /news/search-algorithms-binary-search-explained/; #209
-~^/certifications/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element/?$ /forum/t/freecodecamp-challenge-guide-use-tabindex-to-add-keyboard-focus-to-an-element/301027; #210
+#210
 ~^/c/arrays-and-strings/?$ /news/the-c-beginners-handbook/; #211
 ~^/software-engineering/orthogonality/?$ /news/orthogonality-in-software-engineering/; #212
 ~^/progressive-web-apps/add-to-homescreen/?$ /news/how-to-add-to-homescreen-in-a-progressive-web-app/; #213
@@ -244,18 +245,18 @@
 ~^/mobile-app-development/swift-development/?$ /news/learn-swift-basics-in-5-minutes-30a530e23231/; #245
 ~^/css/breakpoints/?$ /news/css-example-css3/#css-breakpoint-example; #246
 ~^/cplusplus/clean-code-guidelines/?$ /news/how-to-write-clean-code-in-c/; #247
-~^/certifications/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker/?$ /forum/t/freecodecamp-challenge-guide-palindrome-checker/16004; #248
+#248
 ~^/aspnet/?$ /news/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28/; #249
 ~^/javascript/random-method/?$ /news/javascript-math-random-method-explained/; #250
 ~^/python/name-binding-and-aliasing-functions/?$ /news/python-example/#name-binding-and-aliasing-functions; #251
 ~^/python/using-pip/?$ /news/how-to-use-pip-install-in-python/; #252
 ~^/agile/story-points-and-complexity-points/?$ /news/complete-guide-to-agile-methodology/; #253
 ~^/rest-api/?$ /news/rest-apis/; #254
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/record-collection/?$ /forum/t/freecodecamp-challenge-guide-record-collection/18261; #255
+#255
 ~^/typescript/undefined-type/?$ /news/the-definitive-typescript-handbook/#null-and-undefined; #256
 ~^/sql/sql-select-into-statement/?$ /news/sql-select-statements/; #257
 ~^/python/virtual-environments/?$ /news/python-virtual-environments-explained-with-examples/; #258
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/counting-cards/?$ /forum/t/freecodecamp-challenge-guide-counting-cards/16809; #259
+#259
 ~^/git/git-squash/?$ /news/git-squash-explained/; #260
 ~^/redux/redux-thunk/?$ /news/redux-thunk-explained-with-examples/; #261
 ~^/java/abstract-class/?$ /news/abstract-classes-in-java-explained-with-examples/; #262
@@ -281,7 +282,7 @@
 ~^/git/git-fetch/?$ /news/git-fetch-vs-pull/; #282
 ~^/javascript/arithmetic-operation/?$ /news/javascript-arithmetic-math-operators-explained/; #283
 ~^/angular/views/?$ /news/angular-vs-angularjs/; #284
-~^/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string/?$ /forum/t/freecodecamp-challenge-guide-find-the-longest-word-in-a-string/16015; #285
+#285
 ~^/html/attributes/autofocus-attribute/?$ /news/html-attributes-explained/; #286
 ~^/angular/ngmodules/?$ /news/angular-vs-angularjs/; #287
 ~^/python/import-statements/?$ /news/python-import-statements/; #288
@@ -292,7 +293,7 @@
 ~^/git/difference-git-github/?$ /news/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba/; #293
 ~^/c/file-handling/?$ /news/file-handling-in-c-how-to-open-close-and-write-to-files/; #294
 ~^/git/git-stash/?$ /news/git-stash-explained/; #295
-~^/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit/?$ /forum/t/freecodecamp-challenge-guide-convert-celsius-to-fahrenheit/16806; #296
+#296
 ~^/certifications/front-end-libraries/?$ /news/freecodecamp-certifications/; #297
 ~^/javascript/standard-objects/json/json-stringify/?$ /news/json-stringify-method-explained/; #298
 ~^/working-in-tech/remote-versus-onsite/?$ /news/how-to-transition-from-being-an-in-office-to-remote-employee-98433d0a92c1/; #299
@@ -310,7 +311,7 @@
 ~^/software-engineering/unit-tests/?$ /news/unit-tests-explained/; #311
 ~^/miscellaneous/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/?$ /news/the-essential-git-handbook-a1cf77ed11b5/; #312
 ~^/javascript/standard-objects/array/array-prototype-find/?$ /news/javascript-standard-objects-arrays/; #313
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/remove-elements-from-an-array-using-slice-instead-of-splice/?$ /forum/t/freecodecamp-challenge-guide-remove-elements-from-an-array-using-slice-instead-of-splice/301236; #314
+#314
 ~^/mathematics/all-factors-of-a-number/?$ /news/how-to-find-all-factors-of-a-number/; #315
 ~^/python/frozenset/?$ /news/python-sets-detailed-visual-introduction/#-sets-vs-frozensets; #316
 ~^/php/ajax/?$ /news/ajax-tutorial/; #317
@@ -327,39 +328,39 @@
 ~^/java/basic-operations/bitwise-operators/?$ /news/java-example/#basic-operations; #328
 ~^/book-recommendations/?$ /news/best-computer-programming-books-to-help-you-learn-to-code/; #329
 ~^/css/media-queries/?$ /news/css-example-css3/#css3-media-queries-example; #330
-~^/certifications/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator/?$ /forum/t/freecodecamp-challenge-guide-telephone-number-validator/16090; #331
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript/?$ /forum/t/freecodecamp-challenge-guide-subtract-one-number-from-another-with-javascript/18314; #332
+#331
+#332
 ~^/security/confidentiality-integrity-availability/?$ /news/the-cia-triad-confidentiality-integrity-and-availability-explained/; #333
 ~^/developer-ethics/case-studies/?$ /news/developer-ethics/; #334
 ~^/javascript/window-open-method/?$ /news/javascript-window-methods-explained-with-examples/; #335
 ~^/jquery/jquery-selectors/?$ /news/jquery-selectors/; #336
 ~^/javascript/await-promises/?$ /news/async-await-and-promises/; #337
-~^/certifications/front-end-libraries/react/pass-props-to-a-stateless-functional-component/?$ /forum/t/freecodecamp-challenge-guide-pass-props-to-a-stateless-functional-component/301402; #338
+#338
 ~^/html/block-and-inline-elements/?$ /news/inline-elements-and-block-elements-in-html-explained/; #339
 ~^/javascript/closures/?$ /news/closures-in-javascript-explained-with-examples/; #340
-~^/miscellaneous/get-information-about-the-current-user-in-angularjs/?$ /forum/t/how-to-get-data-for-the-current-user-in-angularjs/19460; #341
+#341
 ~^/mathematics/angles-acute-obtuse-straight-and-right/?$ /news/angle-names-in-geometry-acute/; #342
 ~^/devops/?$ /news/docker-devops-course/; #343
 ~^/data-science-tools/flink/batch-examples-java/?$ /news/apache-flink-batch-example-in-java/; #344
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/shopping-list/?$ /forum/t/freecodecamp-challenge-guide-shopping-list/18280; #345
+#345
 ~^/git/gui-options/?$ /news/how-to-set-up-a-git-client-in-just-a-few-minutes-3d78b8d2264f/; #346
-~^/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice/?$ /forum/t/freecodecamp-challenge-guide-slice-and-splice/301148; #347
+#347
 ~^/css/using-css-animations/?$ /news/how-to-use-animations-in-css/; #348
 ~^/computer-science/what-is-an-sdk/?$ /news/whats-an-sdk-software-development-kits-explained-in-plain-english/; #349
 ~^/game-development/unity/?$ /news/unity-game-engine-guide-how-to-get-started-with-the-most-popular-game-engine-out-there/; #350
 ~^/git/git-status/?$ /news/the-essential-git-handbook-a1cf77ed11b5/; #351
 ~^/miscellaneous/identify-basic-internet-problems-with-ping/?$ /news/how-to-identify-basic-internet-problems-with-ping/; #352
-# 353
+#353
 ~^/java/interfaces/?$ /news/java-interfaces-explained-with-examples/; #354
 ~^/agile/code-smells/?$ /news/complete-guide-to-agile-methodology/#code-smells; #355
-~^/miscellaneous/known-issues-with-codepen/?$ /forum/t/known-issues-with-codepen/15993; #356
+#356
 ~^/software-engineering/functional-programming/?$ /news/intro-to-functional-programming-basics/; #357
 ~^/javascript/standard-objects/json/json-parse/?$ /news/json-stringify-method-explained/; #358
 ~^/miscellaneous/hash-tables-and-hashing-functions/?$ /news/what-is-hashing/; #359
 ~^/design-patterns/object-oriented-programming/?$ /news/how-javascript-implements-oop/; #360
 ~^/software-engineering/design-patterns/?$ /news/the-basic-design-patterns-all-developers-need-to-know/; #361
 ~^/css/properties/text-indent-property/?$ /news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#text-indent; #362
-~^/certifications/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter/?$ /forum/t/freecodecamp-challenge-guide-roman-numeral-converter/16044; #363
+#363
 ~^/python/itertools/?$ /news/python-itertools-chain-isslice-and-izip-explained-with-examples/; #364
 ~^/javascript/conditional-ternary-operators/?$ /news/js-diabetes-and-understanding-syntax-sugar-5de249ee9ebc/#ternary-operator; #365
 ~^/sql/sql-create-table/?$ /news/sql-create-table-explained-with-mysql-and-postgres-examples/; #366
@@ -379,12 +380,12 @@
 ~^/typography/point-size/?$ /news/typography-in-detail-point-size-em/; #380
 ~^/react/what-are-react-props/?$ /news/react-js-for-beginners-props-state-explained/; #381
 ~^/miscellaneous/the-net-platform/?$ /news/asp-net-core-3-1-course/; #382
-~^/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string/?$ /forum/t/freecodecamp-challenge-guide-truncate-a-string/16089; #383
+#383
 ~^/swift/?$ /news/learn-swift-basics-in-5-minutes-30a530e23231/; #384
 ~^/miscellaneous/front-end-file-structure/?$ /news/angular-tutorial-course/; #385
 ~^/mathematics/x-and-y-intercepts/?$ /news/math-for-programmers/#how-to-find-the-x-and-y-intercepts; #386
 ~^/python/decorators/?$ /news/python-property-decorator/; #387
-~^/certifications/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/?$ /forum/t/freecodecamp-challenge-guide-caesars-cipher/16003; #388
+#388
 ~^/csharp/null-conditional-operator/?$ /news/c-sharp-tutorial-for-beginners/; #389
 ~^/javascript/window-cleartimeout-method/?$ /news/javascript-window-methods-explained-with-examples/; #390
 ~^/linux/advantages-of-linux/?$ /news/why-use-linux-11-reasons-linux-is-awesome/; #391
@@ -395,11 +396,11 @@
 ~^/developer-tools/developer-tools-in-browsers/chrome-developer-tools/?$ /news/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3/; #396
 ~^/javascript/standard-objects/array/array-prototype-indexof/?$ /news/javascript-standard-objects-arrays/; #397
 ~^/svg/?$ /news/svg-basics-what-are-scalable-vector-graphics-and-how-do-you-use-them/; #398
-~^/certifications/front-end-libraries/react/use-state-to-toggle-an-element/?$ /forum/t/freecodecamp-challenge-guide-use-state-to-toggle-an-element/301421; #399
+#399
 ~^/javascript/truth-table/?$ /news/javascript-triple-equals-sign-vs-double-equals-sign-comparison-operators-explained-with-examples/; #400
 ~^/html/html5-web-storage/?$ /news/html-and-html5-example/#html5-web-storage-example; #401
 ~^/javascript/standard-objects/function/function-length/?$ /news/function-prototype-bind-and-function-prototype-length-in-javascript-explained/; #402
-~^/miscellaneous/create-and-upload-and-link-animated-gif-image/?$ /forum/t/how-to-create-upload-host-and-link-to-an-animated-gif-image-for-free/19469; #403
+#403
 ~^/css/colors/?$ /news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#colors; #404
 ~^/linux/how-to-download-files-with-wget/?$ /news/linux-example-bash-command-line/#12-simple-and-useful-linux-commands; #405
 ~^/linux/?$ /news/the-best-linux-tutorials/; #406
@@ -417,18 +418,18 @@
 ~^/javascript/rest-parameters/?$ /news/spread-operator-and-rest-parameter-in-javascript-es6-4416a9f47e5e/; #418
 ~^/css/image-opacity-and-transparency/?$ /news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#opacity-; #419
 ~^/typography/ems-and-ens/?$ /news/typography-in-detail-point-size-em/; #420
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements/?$ /forum/t/freecodecamp-challenge-guide-use-conditional-logic-with-if-statements/18348; #421
-~^/certifications/responsive-web-design/responsive-web-design-principles/create-a-media-query/?$ /forum/t/freecodecamp-challenge-guide-create-a-media-query/301139; #422
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator/?$ /forum/t/freecodecamp-challenge-guide-copy-an-array-with-the-spread-operator/301157; #423
+#421
+#422
+#423
 ~^/html/comments-in-html/?$ /news/html-comments-how-to-comment-out-your-html-code/; #424
 ~^/c/malloc/?$ /news/malloc-in-c-dynamic-memory-allocation-in-c-explained/; #425
-~^/miscellaneous/add-free-code-camp-in-linkedin/?$ /forum/t/how-to-add-freecodecamp-to-your-linkedin-profile/19119; #426
-~^/miscellaneous/arranging-operations-alphabetically-in-swashbuckle-swagger/?$ /forum/t/arranging-operations-alphabetically-in-swashbuckle-swagger/19350; #427
-~^/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey/?$ /forum/t/freecodecamp-challenge-guide-chunky-monkey/16005; #428
+#426
+#427
+#428
 ~^/javascript/tutorials/delete-properties-from-a-javascript-object/?$ /news/the-complete-javascript-handbook-f26b2c71719c/#objectproperties; #429
 ~^/miscellaneous/materializecss-framework-as-a-an-alternative-to-bootstrap/?$ /an-quick-introduction-to-material-design-using-materialize-8a9b223c64f1/; #430
 ~^/blockchain/?$ /news/what-is-blockchain-and-how-does-it-work/; #431
-~^/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations/?$ /forum/t/freecodecamp-challenge-guide-mutations/16025; #432
+#432
 ~^/javascript/loops/for-of-loop/?$ /news/javascript-loops-explained-for-loop-for/; #433
 ~^/blockchain/features/?$ /news/what-is-blockchain-technology-blockchain-definition-explained/; #434
 ~^/algorithms/graph-algorithms/depth-first-search/?$ /news/graph-algorithms-explained/; #435
@@ -443,11 +444,11 @@
 ~^/terminal-commandline/windows-command-prompt/?$ /news/how-to-use-the-command-prompt-in-windows/; #444
 ~^/javascript/functions-list/?$ /news/the-complete-javascript-handbook-f26b2c71719c/; #445
 ~^/miscellaneous/data-structure-trie/?$ /news/trie-data-structure-implementation/; #446
-~^/certifications/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/?$ /forum/t/freecodecamp-challenge-guide-pig-latin/16039; #447
+#447
 ~^/wordpress/?$ /news/best-wordpress-tutorial/; #448
 ~^/html/elements/iframe-tag/?$ /news/html-elements-explained-what-are-html-tags/; #449
 ~^/mathematics/convert-decimals-to-fractions/?$ /news/#how-to-convert-decimals-to-fractions; #450
-~^/miscellaneous/deploying-to-openshift/?$ /forum/t/how-to-deploy-an-app-to-openshift-a-step-by-step-tutorial/19393; #451
+#451
 ~^/miscellaneous/html-and-css-cheat-sheet/?$ /news/html-css-11-hour-course/; #452
 ~^/python/web-frameworks-and-what-they-do-for-you/django/?$ /news/python-django-course/; #453
 ~^/miscellaneous/setting-up-ubuntu-for-programming/?$ /news/how-to-set-up-a-fresh-ubuntu-desktop-using-only-dotfiles-and-bash-scripts/; #454
@@ -455,16 +456,16 @@
 ~^/agile/design-patterns/?$ /news/complete-guide-to-agile-methodology/; #456
 ~^/ruby/common-array-methods/?$ /news/common-array-methods-in-ruby/; #457
 ~^/angular/services-and-injectors/?$ /news/angular-services-and-dependency-injection-explained/; #458
-~^/certifications/apis-and-microservices/basic-node-and-express/serve-an-html-file/?$ /forum/t/freecodecamp-challenge-guide-serve-an-html-file/301516; #459
+#459
 ~^/html/optional-tags/?$ /news/the-html-handbook/#the-document-body; #460
 ~^/css/overflow/?$ /news/css-overflow-explained-with-examples/; #461
 ~^/nodejs/npm/?$ /news/node-package-manager-npm-explained-by-directing-a-movie-9c90f1d16d33/; #462
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object.keys/?$ /forum/t/freecodecamp-challenge-guide-generate-an-array-of-all-object-keys-with-object-keys/301160; #463
+#463
 ~^/javascript/tutorials/debugging-javascript-with-browser-devtools/?$ /news/how-to-debug-javascript-with-your-browsers-devtools/; #464
 ~^/html/elements/textarea-tag/?$ /news/html-elements-explained-what-are-html-tags/; #465
 ~^/python/setting-up-python-web-framework-django-and-flask/?$ /news/python-django-course/; #466
 ~^/miscellaneous/storing-mongo-username--password-persistently-using-dotenv/?$ /news/how-to-store-secure-information-for-applications-with/; #467
-~^/certifications/apis-and-microservices/mongodb-and-mongoose/perform-classic-updates-by-running-find-edit-then-save/?$ /forum/t/freecodecamp-challenge-guide-perform-classic-updates-by-running-find-edit-then-save/301541; #468
+#468
 ~^/python/comparisons/?$ /news/python-example/#python-comparison-operator-example; #469
 ~^/javascript/global-variables/?$ /news/global-variables-in-javascript-explained/; #470
 ~^/css/styling-links/?$ /news/how-to-style-links-in-css/; #471
@@ -501,8 +502,8 @@
 ~^/git/git-rebase/?$ /news/the-ultimate-guide-to-git-merge-and-git-rebase/; #502
 ~^/ruby/managing-ruby-versions/?$ /news/how-to-manage-your-ruby-versions/; #503
 ~^/css/dropdowns/?$ /news/css-dropdown-guide-how-to-make-a-dropdown-menu-in-css/; #504
-~^/certifications/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing/?$ /forum/t/freecodecamp-challenge-guide-dna-pairing/16009; #505
-# 506
+#505
+#506
 ~^/vim/?$ /news/learn-linux-vim-basic-features-19134461ab85/; #507
 ~^/cplusplus/map/?$ /news/c-plus-plus-map-explained-with-examples/; #508
 ~^/javascript/converting-strings-to-numbers/?$ /news/convert-string-to-number-javascript/; #509
@@ -514,7 +515,7 @@
 ~^/javascript/immediately-invoked-functions-expressions/?$ /news/iife-in-javascript-what/; #515
 ~^/agile/task-boards-and-kanban/?$ /news/complete-guide-to-agile-methodology/; #516
 ~^/electron/?$ /news/building-an-electron-application-with-create-react-app-97945861647c/; #517
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/avoid-mutations-and-side-effects-using-functional-programming/?$ /forum/t/freecodecamp-challenge-guide-avoid-mutations-and-side-effects-using-functional-programming/301228; #518
+#518
 ~^/mathematics/equal-less-and-greater-than-symbols/?$ /news/math-for-programmers/#the-equal-to-less-than-and-greater-than-symbols-explained; #519
 ~^/css/object-fit/?$ /news/how-to-center-an-image-using-text-align/#object-fit; #520
 ~^/mathematics/conversion-of-temperature-celsius-to-fahrenheit/?$ /news/math-for-programmers/#how-to-convert-celsius-to-fahrenheit; #521
@@ -529,16 +530,16 @@
 ~^/miscellaneous/how-to-log-in-to-your-local-instance-of-free-code-camp/?$ /news/how-to-login-to-your-local-instance-of-freecodecamp/; #530
 ~^/css/css-frameworks/css-framework-semanticui/?$ /news/css-frameworks/; #531
 ~^/miscellaneous/running-webpack-and-webpack-dev-server/?$ /news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/; #532
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-numbers-with-javascript/?$ /forum/t/freecodecamp-challenge-guide-multiply-two-numbers-with-javascript/18243; #533
+#533
 ~^/data-science-tools/spark/?$ /news/how-to-use-spark-clusters-for-parallel-processing-big-data-86a22e7f8b50/; #534
 ~^/miscellaneous/react-router-cheatsheet/?$ /news/react-router-in-5-minutes/; #535
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice/?$ /forum/t/freecodecamp-challenge-guide-remove-items-using-splice/301166; #536
+#536
 ~^/javascript/window-clearinterval-method/?$ /news/javascript-window-methods-explained-with-examples/; #537
 ~^/css/css3-media-queries/?$ /news/css-example-css3/#css3-media-queries-example; #538
 ~^/rust/data-types/?$ /news/learn-rust-with-github-actions/; #539
 ~^/software-engineering/tco-tail-call-optimization/?$ /news/quick-intro-to-recursion/; #540
 ~^/python/data-structures/integers/?$ /news/how-to-convert-strings-into-integers-in-python/; #541
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript/?$ /forum/t/freecodecamp-challenge-guide-decrement-a-number-with-javascript/17558; #542
+#542
 ~^/miscellaneous/what-you-will-learn-at-free-code-camp-in-order/?$ /news/freecodecamps-new-coding-curriculum-is-now-live-with-1400-coding-lessons-and-6-developer-certifications-you-can-earn/; #543
 ~^/sql/sql-replace-view-statement/?$ /news/sql-replace-view-statement/; #544
 ~^/agile/?$ /news/complete-guide-to-agile-methodology/; #545
@@ -565,26 +566,26 @@
 ~^/xml/?$ /news/an-introduction-to-extensible-markup-language-xml/; #566
 ~^/php/security/cross-site-scripting/?$ /news/php-security-vulnerabilities/; #567
 ~^/machine-learning/deep-learning/?$ /news/tensorflowjs-full-course/; #568
-~^/certifications/javascript-algorithms-and-data-structures/debugging/catch-mixed-usage-of-single-and-double-quotes/?$ /forum/t/freecodecamp-challenge-guide-catch-mixed-usage-of-single-and-double-quotes/301188; #569
+#569
 ~^/agile/test-driven-development/?$ /news/an-introduction-to-test-driven-development-c4de6dce5c/; #570
-~^/meta/free-code-camp-brownie-points/?$ /forum/t/free-code-camp-brownie-points/18380; #571
+#571
 ~^/miscellaneous/how-to-use-git-rebase/?$ /news/the-ultimate-guide-to-git-merge-and-git-rebase/; #572
 ~^/progressive-web-apps/service-workers/?$ /news/web-workers-service-workers-pwas/; #573
 ~^/devops/docker/?$ /news/docker-devops-course/; #574
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays/?$ /forum/t/freecodecamp-challenge-guide-create-complex-multi-dimensional-arrays/301159; #575
+#575
 ~^/javascript/window-confirm-method/?$ /news/javascript-window-methods-explained-with-examples/; #576
 ~^/html/elements/div-tag/?$ /news/html-elements-explained-what-are-html-tags/; #577
 ~^/javascript/singleton-in-javscript/?$ /news/lets-talk-about-you-and-the-singleton-design-pattern-bb2e160fa952/; #578
 ~^/javascript/object-instantiation/functional/?$ /news/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8/; #579
 ~^/linux/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server/?$ /news/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server/; #580
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object/?$ /forum/t/freecodecamp-challenge-guide-modify-an-array-stored-in-an-object/301163; #581
+#581
 ~^/html/html-entities/?$ /news/html-and-html5-example/#what-are-html-entities; #582
 ~^/linux/lamp-stack/?$ /how-to-setup-a-lamp-server-on-a-local-ubuntu-linux-machine-or-vm/; #583
 ~^/react/state-vs-props/?$ /news/react-js-for-beginners-props-state-explained/; #584
 ~^/css/css-frameworks/css-framework-materialize/?$ /news/css-frameworks/; #585
 ~^/blockchain/types/?$ /news/what-is-blockchain-and-how-does-it-work/; #586
 ~^/javascript/standard-objects/array/array-prototype-map/?$ /news/javascript-standard-objects-arrays/; #587
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation/?$ /forum/t/freecodecamp-challenge-guide-access-an-arrays-contents-using-bracket-notation/301149; #588
+#588
 ~^/data-science-tools/pandas/?$ /news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/; #589
 ~^/javascript/standard-objects/object/object-assign/?$ /news/javascript-standard-objects-assign-values-hasownproperty-and-getownpropertynames-methods-explained/; #590
 ~^/html/attributes/img-align-attribute/?$ /news/html-attributes-explained/; #591
@@ -594,17 +595,17 @@
 ~^/miscellaneous/use-github-static-pages-to-host-your-front-end-projects/?$ /news/create-a-free-static-site-with-github-pages-in-10-minutes/; #595
 ~^/security/oauth2/?$ /news/a-quick-introduction-to-oauth-using-passport-js-65ea5b621a/; #596
 ~^/java/resources/?$ /news/best-java-8-tutorial/; #597
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice/?$ /forum/t/freecodecamp-challenge-guide-add-items-using-splice/301152; #598
+#598
 ~^/cloud-development/azure/?$ /news/getting-started-with-microsoft-azure/; #599
-~^/certifications/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters/?$ /forum/t/freecodecamp-challenge-guide-missing-letters/16023; #600
+#600
 ~^/css/the-box-model/?$ /news/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1/; #601
 ~^/gatsbyjs/?$ /news/what-is-gatsby-and-why-its-time-to-get-on-the-hype-train/; #602
-~^/certifications/front-end-libraries/react/pass-state-as-props-to-child-components/?$ /forum/t/freecodecamp-challenge-guide-pass-state-as-props-to-child-components/301403; #603
-~^/miscellaneous/edit-or-delete-gitter-messages/?$ /forum/t/edit-or-delete-gitter-messages/18436; #604
+#603
+#604
 ~^/css/css-cursors/?$ /news/css-example-css3/; #605
 ~^/tools/calculators/conception-calculator/?$ /; #606
 ~^/containers/run-your-first-docker-image/?$ /news/docker-image-guide-how-to-remove-and-delete-docker-images-stop-containers-and-remove-all-volumes/; #607
-~^/meta/free-code-camp-hotkeys/?$ /forum/t/free-code-camp-hotkeys/59467; #608
+#608
 ~^/meta/free-code-camp-streaks/?$ /news/lessons-from-my-month-long-github-commit-streak-b8f3167d34ac/; #609
 ~^/miscellaneous/mozilla-developer-network/?$ /news/the-mozilla-developer-network-what-it-is-and-how-to-use-it/; #610
 ~^/css/css3-gradients/?$ /news/css-linear-gradient-explained-with-examples/; #611
@@ -613,7 +614,7 @@
 ~^/miscellaneous/writing-a-markdown-file-for-github-using-atom/?$ /news/how-to-generate-a-github-markdown-file-from-microsoft-word-using-typescript-a8976ea958c3/; #614
 ~^/vim/copy-and-paste/?$ /news/vim-for-people-who-use-visual-studio-code/; #615
 ~^/machine-learning/neural-networks/?$ /news/learn-to-develop-neural-networks-using-tensorflow-2-0-in-this-beginners-course/; #616
-~^/certifications/apis-and-microservices/basic-node-and-express/implement-a-root-level-request-logger-middleware/?$ /forum/t/freecodecamp-challenge-guide-implement-a-root-level-request-logger-middleware/301514; #617
+#617
 ~^/vim/vundle/?$ /news/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae/; #618
 ~^/kotlin/hello-world/?$ /news/learn-how-to-develop-native-android-apps-with-kotlin-full-tutorial/; #619
 ~^/javascript/html-dom-innerhtml-property/?$ /news/html-dom-methods/; #620
@@ -627,7 +628,7 @@
 ~^/redux/reselect/?$ /news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/; #628
 ~^/book-recommendations/javascript/?$ /news/my-software-engineering-bookshelf/; #629
 ~^/miscellaneous/guide-for-using-mongodb-and-deploying-to-heroku/?$ /news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/; #630
-~^/certifications/apis-and-microservices/basic-node-and-express/get-query-parameter-input-from-the-client/?$ /forum/t/freecodecamp-challenge-guide-get-query-parameter-input-from-the-client/301512; #631
+#631
 ~^/game-development/terasology/?$ /news/best-game-engines-for-video-game-development/; #632
 ~^/cloud-development/amazon-aws/dynamodb/?$ /news/ultimate-dynamodb-2020-cheatsheet/; #633
 ~^/javascript/standard-objects/array/array-prototype-every/?$ /news/javascript-standard-objects-arrays/; #634
@@ -638,29 +639,29 @@
 ~^/php/php-cookies/?$ /news/web-security-hardening-http-cookies-be8d8d8016e1/; #639
 ~^/javascript/es6/map-function/?$ /news/the-ultimate-guide-to-javascript-array-methods-map/; #640
 ~^/clojure/?$ /news/learn-javascript-closures-in-n-minutes/; #641
-~^/miscellaneous/project-tribute-page-tips/?$ /forum/t/freecodecamp-project-guide-build-a-tribute-page/19371; #642
+#642
 ~^/terminal-commandline/?$ /news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/; #643
 ~^/javascript/standard-objects/number/number-isinteger/?$ /news/learn-modern-javascript-in-this-free-28-part-course-7ec8d353eb/; #644
 ~^/computer-science/databases/acid/?$ /news/sql-and-databases-full-course/; #645
 ~^/machine-learning/feature-engineering/?$ /news/massive-tensorflow-2-0-free-course/; #646
 ~^/javascript/tutorials/finding-a-remainder-in-javascript/?$ /news/math-in-javascript/; #647
 ~^/meta/free-code-camp-official-chat-rooms/?$ /news/freecodecamp-discord-chat-room-server/; #648
-~^/certifications/apis-and-microservices/mongodb-and-mongoose/chain-search-query-helpers-to-narrow-search-results/?$ /forum/t/freecodecamp-challenge-guide-chain-search-query-helpers-to-narrow-search-results/301533; #649
+#649
 ~^/linux/making-partitions-in-linux/?$ /news/the-best-linux-tutorials/; #650
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops/?$ /forum/t/freecodecamp-challenge-guide-iterate-with-javascript-while-loops/18220; #651
+#651
 ~^/python/commenting-code/?$ /news/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83/; #652
 ~^/git/git-clone/?$ /news/10-important-git-commands-that-every-developer-should-know/; #653
 ~^/miscellaneous/untrack-files-previously-committed-from-new-gitignore/?$ /news/gitignore-what-is-it-and-how-to-add-to-repo/; #654
 ~^/javascript/standard-objects/array/array-prototype-includes/?$ /news/javascript-standard-objects-arrays/; #655
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift/?$ /forum/t/freecodecamp-challenge-guide-add-items-to-an-array-with-push-and-unshift/301151; #656
-# 657
+#656
+#657
 ~^/computer-science/notation/asymptotic-notation/?$ /news/big-theta-and-asymptotic-notation-explained/; #658
 ~^/miscellaneous/learn-some-gulp-basics/?$ /news/super-simple-gulp-tutorial-for-beginners-45141974bfe8/; #659
 ~^/css/css-buttons/?$ /news/a-quick-guide-to-styling-buttons-using-css-f64d4f96337f/; #660
 ~^/miscellaneous/store-data-in-web-browsers-storage/?$ /news/how-to-store-data-in-web-browser-storage-localstorage-and-session-storage-explained/; #661
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/return-part-of-an-array-using-the-slice-method/?$ /forum/t/freecodecamp-challenge-guide-return-part-of-an-array-using-the-slice-method/301239; #662
+#662
 ~^/css/css-position/?$ /news/how-to-use-css-position-to-layout-a-website-with-example-code-38592bb9e276/; #663
-~^/certifications/front-end-libraries/react/optimize-re-renders-with-shouldcomponentupdate/?$ /forum/t/freecodecamp-challenge-guide-optimize-re-renders-with-shouldcomponentupdate/301398; #664
+#664
 ~^/javascript/standard-objects/object/object-values/?$ /news/javascript-standard-objects-assign-values-hasownproperty-and-getownpropertynames-methods-explained/; #665
 ~^/working-in-tech/dunning-kruger-effect/?$ /news/what-is-the-dunning-kruger-effect/; #666
 ~^/mathematics/how-to-multiply-matrices/?$ /math-for-programmers/; #667
@@ -681,7 +682,7 @@
 ~^/computer-science/?$ /news/introduction-to-computer-science/; #682
 ~^/css/layout/the-position-property/?$ /news/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26/; #683
 ~^/computer-science/data-structures/graphs/?$ /news/graph-algorithms-and-data-structures-explained-with-java-and-c-examples/; #684
-~^/certifications/apis-and-microservices/basic-node-and-express/serve-json-on-a-specific-route/?$ /forum/t/freecodecamp-challenge-guide-serve-json-on-a-specific-route/301517; #685
+#685
 ~^/mathematics/law-of-cosines/?$ /math-for-programmers/; #686
 ~^/python/ord-function/?$ /news/python-function-guide-with-examples/; #687
 ~^/data-science-tools/Talend/?$ /news/data-science-course-for-beginners/; #688
@@ -697,13 +698,13 @@
 ~^/mathematics/converting-from-decimal-to-binary/?$ /math-for-programmers/; #698
 ~^/java/constructors/?$ /news/java-getters-and-setters/; #699
 ~^/agile/pirate-metrics/?$ /news/complete-guide-to-agile-methodology/; #700
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator/?$ /forum/t/freecodecamp-challenge-guide-comparison-with-the-greater-than-operator/16786; #701
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator/?$ /forum/t/freecodecamp-challenge-guide-comparison-with-the-strict-equality-operator/16790; #702
-~^/certifications/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes/?$ /forum/t/freecodecamp-challenge-guide-catch-unclosed-parentheses-brackets-braces-and-quotes/301190; #703
+#701
+#702
+#703
 ~^/miscellaneous/angular-2-starter-project/?$ /news/how-to-use-javascript-libraries-in-angular-2-apps/; #704
 ~^/miscellaneous/how-can-i-submit-an-story-to-free-code-camps-medium-publication/?$ /news/developer-news-style-guide/; #705
 ~^/clojure/the-basics/?$ /news/learn-javascript-closures-in-n-minutes/; #706
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes/?$ /forum/t/freecodecamp-challenge-guide-access-array-data-with-indexes/16158; #707
+#707
 ~^/cplusplus/preprocessors/?$ /news/the-c-beginners-handbook/#the-preprocessor; #708
 ~^/java/swing/?$ /must-read-books-to-learn-java-programming-327a3768ea2f/; #709
 ~^/python/data-structures/dictionaries/?$ /news/python-dictionaries-detailed-visual-introduction/; #710
@@ -714,10 +715,10 @@
 ~^/miscellaneous/python-function-divmod/?$ /news/python-function-guide-with-examples/; #715
 ~^/logic/conditional-and-biconditional-statements/?$ /news/a-definitive-guide-to-conditional-logic-in-javascript-23fa234d2ca3/; #716
 ~^/algorithms/graph-algorithms/breadth-first-search/?$ /news/graph-algorithms-explained/; #717
-~^/certifications/apis-and-microservices/basic-node-and-express/serve-static-assets/?$ /forum/t/freecodecamp-challenge-guide-serve-static-assets/301518; #718
+#718
 ~^/designer-tools/photoshop/?$ /news/photoshop-101-introduction-for-web-developers-62d55232e62b/; #719
 ~^/miscellaneous/heres-how-to-earn-our-verified-back-end-development-certification/?$ /news/freecodecamp-certifications/; #720
-~^/certifications/front-end-libraries/react/use--for-a-more-concise-conditional/?$ /forum/t/freecodecamp-challenge-guide-use-for-a-more-concise-conditional/301413; #721
+#721
 ~^/certifications/coding-interview-prep/take-home-projects/?$ /learn/coding-interview-prep/take-home-projects/; #722
 ~^/sql/sql-update-statement/?$ /news/sql-update-query-and-update-statement-explained/; #723
 ~^/java/javafx/?$ /news/how-to-make-a-cross-platform-mobile-app-in-java-5f8eae071ff2/; #724
@@ -729,8 +730,8 @@
 ~^/python/truth-value-testing/?$ /news/truthy-and-falsy-values-in-python/; #730
 ~^/python/parenthesis-for-boolean-operations/?$ /news/boolean-operations-in-python/; #731
 ~^/python/using-python-for-web-development/?$ /news/python-django-course/; #732
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions/?$ /forum/t/freecodecamp-challenge-guide-global-scope-and-functions/18193; #733
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/pass-arguments-to-avoid-external-dependence-in-a-function/?$ /forum/t/freecodecamp-challenge-guide-pass-arguments-to-avoid-external-dependence-in-a-function/301234; #734
+#733
+#734
 ~^/python/lists/list-index-method/?$ /news/python-lists-explained-len-pop-index-and-list-comprehension/; #735
 ~^/java/loops/infinite-loops/?$ /news/if-you-have-slow-loops-in-python-you-can-fix-it-until-you-cant-3a39e03b6f35/; #736
 ~^/javascript/strict-mode/?$ /news/javascript-example/; #737
@@ -743,8 +744,8 @@
 ~^/machine-learning/deep-learning/music-classification/?$ /news/classify-butterfly-images-deep-learning-keras/; #744
 ~^/data-science-tools/power-bi/?$ /news/tableau-for-data-science-and-data-visualization-crash-course/; #745
 ~^/javascript/loops/while-loop/?$ /news/javascript-loops-explained-for-loop-for/; #746
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array/?$ /forum/t/freecodecamp-challenge-guide-nest-one-array-within-another-array/18247; #747
-~^/certifications/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server/?$ /forum/t/freecodecamp-challenge-guide-chain-middleware-to-create-a-time-server/301510; #748
+#747
+#748
 ~^/agile/cross-functional-teams/?$ /news/being-agile-kanban-vs-scrum/; #749
 ~^/agile/nonfunctional-requirements/?$ /news/complete-guide-to-agile-methodology/; #750
 ~^/miscellaneous/freecodecamp-algorithm-merge-sort-guide/?$ /news/sorting-algorithms-explained-with-examples-in-python-java-and-c/; #751
@@ -757,7 +758,7 @@
 ~^/user-experience-design/customer-journey-map/?$ /news/4-ways-to-implement-data-for-a-better-user-experience-design/; #758
 ~^/html/tutorials/images-in-html/?$ /news/how-displaying-an-image-on-html5-canvas-works-13e3f6a6c4bd/; #759
 ~^/agile/feature-based-planning/?$ /news/complete-guide-to-agile-methodology/; #760
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype/?$ /forum/t/freecodecamp-challenge-guide-inherit-behaviors-from-a-supertype/301319; #761
+#761
 ~^/python/keywords/?$ /news/python-function-guide-with-examples/; #762
 ~^/mathematics/algebra/the-quadratic-formula/?$ /news/math-for-programmers/#quadratic-formula; #763
 ~^/html/attributes/font-size-attribute/?$ /news/html-attributes-explained/; #764
@@ -769,12 +770,12 @@
 ~^/javascript/standard-objects/json/json-syntax/?$ /news/json-crash-course/; #770
 ~^/machine-learning/glossary/?$ /news/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23/; #771
 ~^/javascript/this-reference/?$ /news/the-complete-guide-to-this-in-javascript/; #772
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties/?$ /forum/t/freecodecamp-challenge-guide-use-the-delete-keyword-to-remove-object-properties/301168; #773
+#773
 ~^/miscellaneous/data-structure-arrays/?$ /news/data-structures-101-arrays-a-visual-introduction-for-beginners-7f013bcc355a/; #774
 ~^/developer-ethics/the-programmers-oath/?$ /news/the-programmers-oath/; #775
 ~^/elixir/documentation/?$ /news/simple-extensible-blog-built-with-elixir-and-phoenix-61d4dfafabb1/; #776
 ~^/mathematics/solving-a-system-of-3-equations-and-4-variables-using-matrix-row-echelon-form/?$ /news/math-for-programmers/; #777
-~^/certifications/coding-interview-prep/project-euler/problem-244-sliders/?$ /forum/t/freecodecamp-challenge-guide-problem-244-sliders/301891; #778
+#778
 ~^/c/arrays/?$ /news/data-structures-101-arrays-a-visual-introduction-for-beginners-7f013bcc355a/; #779
 ~^/php/security/sql-injection/?$ /news/php-security-vulnerabilities/; #780
 ~^/algorithms/algorithm-design-patterns/creational-patterns/?$ /news/the-basic-design-patterns-all-developers-need-to-know/; #781
@@ -786,11 +787,11 @@
 ~^/miscellaneous/heroku-deployment-guide/?$ /news/how-to-deploy-your-site-using-express-and-heroku/; #787
 ~^/containers/?$ /news/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103/; #788
 ~^/developer-tools/npm/?$ /news/node-package-manager-npm-explained-by-directing-a-movie-9c90f1d16d33/; #789
-~^/certifications/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching/?$ /forum/t/freecodecamp-challenge-guide-find-characters-with-lazy-matching/301341; #790
+#790
 ~^/react/life-cycle-methods-of-a-component/?$ /news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/; #791
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs/?$ /forum/t/freecodecamp-challenge-guide-apply-functional-programming-to-convert-strings-to-url-slugs/301227; #792
-~^/certifications/apis-and-microservices/basic-node-and-express/get-route-parameter-input-from-the-client/?$ /forum/t/freecodecamp-challenge-guide-get-query-parameter-input-from-the-client/301512; #793
-~^/certifications/coding-interview-prep/data-structures/use-breadth-first-search-in-a-binary-search-tree/?$ /forum/t/freecodecamp-challenge-guide-use-breadth-first-search-in-a-binary-search-tree/301718; #794
+#792
+#793
+#794
 ~^/java/multithreading/?$ /news/how-to-get-started-with-multithreading-in-java/; #795
 ~^/javascript/assignment-operators/?$ /news/javascript-example/; #796
 ~^/cplusplus/error-handling/?$ /news/c-sharp-24-hour-course/; #797
@@ -799,14 +800,14 @@
 ~^/go/installing-go/windows-installer/?$ /news/setting-up-go-programming-language-on-windows-f02c8c14e2f/; #800
 ~^/javascript/standard-objects/promise/promise-prototype-then/?$ /news/javascript-standard-objects-assign-values-hasownproperty-and-getownpropertynames-methods-explained/; #801
 ~^/typography/combining-typefaces/?$ /news/typography-type-families-classifications-and-combining-typefaces/#combining-typefaces; #802
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-from-an-array-with-pop-and-shift/?$ /forum/t/freecodecamp-challenge-guide-remove-items-from-an-array-with-pop-and-shift/301165; #803
-~^/certifications/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet/?$ /forum/t/freecodecamp-challenge-guide-match-numbers-and-letters-of-the-alphabet/301356; #804
-# 803
-~^/certifications/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names/?$ /forum/t/freecodecamp-challenge-guide-catch-misspelled-variable-and-function-names/301186; #806
-~^/miscellaneous/algoritmo-mensaje-secreto/?$ /forum/t/freecodecamp-challenge-guide-binary-agents/14273; #807
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties/?$ /forum/t/freecodecamp-challenge-guide-updating-object-properties/18336; #808
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/use-an-iife-to-create-a-module/?$ /forum/t/freecodecamp-challenge-guide-use-an-iife-to-create-a-module/301332; #809
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values/?$ /forum/t/freecodecamp-challenge-guide-practice-comparing-different-values/301174; #810
+#803
+#804
+#805
+#806
+#807
+#808
+#809
+#810
 ~^/miscellaneous/linking-your-account-with-github/?$ /signin/; #811
 ~^/java/arraylist/?$ /news/understanding-java-generic-types-covariance-and-contravariance-88f4c19763d2/; #812
 ~^/css/text-shadow/?$ /news/css-text-shadow-and-box-shadow-examples/; #813
@@ -820,19 +821,19 @@
 ~^/bootstrap/carousel/?$ /news/how-to-design-and-build-a-carousel-feature-in-vuejs-125f690a3a9e/; #821
 ~^/javascript/booleans/?$ /news/booleans-in-javascript-explained-how-to-use-booleans-in-javascript/; #822
 ~^/linux/writing-a-bash-script/?$ /news/linux-command-line-bash-tutorial/; #823
-# 824
+#824
 ~^/nodejs/streams/?$ /news/node-js-streams-everything-you-need-to-know-c9141306be93/; #825
 ~^/javascript/standard-objects/regexp/regexp-prototype-test/?$ /news/regular-expressions/; #826
-~^/haskell/?$ /forum/t/has-anybody-tried-haskell/5343/6; #827
+#827
 ~^/accessibility/accessibility-basics/?$ /news/what-is-website-accessibility-18ce00ec990f/; #828
-~^/certifications/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions/?$ /forum/t/freecodecamp-challenge-guide-use-arrow-functions-to-write-concise-anonymous-functions/301211; #829
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife/?$ /forum/t/freecodecamp-challenge-guide-understand-the-immediately-invoked-function-expression-iife/301328; #830
+#829
+#830
 ~^/miscellaneous/how-free-code-camp-works/?$ /news/freecodecamps-new-coding-curriculum-is-now-live-with-1400-coding-lessons-and-6-developer-certifications-you-can-earn/; #831
 ~^/cplusplus/lists/?$ /news/the-c-beginners-handbook/#arrays; #832
 ~^/software-engineering/version-control-system/?$ /news/git-the-laymans-guide-to-understanding-the-core-concepts/; #833
 ~^/javascript/standard-objects/math/math-pi/?$ /news/math-in-javascript/#math-pi; #834
 ~^/sql/sql-insert-into-select-statement/?$ /news/sql-select-statements/; #835
-~^/certifications/front-end-libraries/react/add-comments-in-jsx/?$ /forum/t/freecodecamp-challenge-guide-add-comments-in-jsx/301376; #836
+#836
 ~^/java/pojo/?$ /news/object-oriented-concepts/; #837
 ~^/cplusplus/dynamic-memory-allocation/?$ /news/malloc-in-c-dynamic-memory-allocation-in-c-explained/; #838
 ~^/css/fonts/?$ /news/css-example-css3/#css-fonts-example; #839
@@ -840,17 +841,17 @@
 ~^/javascript/standard-objects/array/array-prototype-join/?$ /news/javascript-standard-objects-arrays/#array-prototype-join; #841
 ~^/devops/ansible/?$ /news/ansible-manage-aws/; #842
 ~^/java/strings/?$ /news/strings-in-java/; #843
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/iterate-over-all-properties/?$ /forum/t/freecodecamp-challenge-guide-iterate-over-all-properties/301320; #844
+#844
 ~^/javascript/standard-objects/atomics/atomics-wait/?$ /news/the-complete-javascript-handbook-f26b2c71719c/; #845
 ~^/mathematics/statistics/binomial-distribution/?$ /news/math-for-programmers/#binomial-distribution; #846
 ~^/security/cryptography/?$ /news/cryptography-and-lfsr/; #847
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria/?$ /forum/t/freecodecamp-challenge-guide-use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria/301312; #848
-~^/javascript/tutorials/give-your-javascript-slot-machine-some-stylish-images/?$ /forum/t/guide-give-your-javascript-slot-machine-some-stylish-images/18192; #849
-~^/certifications/apis-and-microservices/basic-node-and-express/meet-the-node-console/?$ /forum/t/freecodecamp-challenge-guide-meet-the-node-console/301515; #850
+#848
+#849
+#850
 ~^/meta/free-code-camp-cost/?$ /news/about/; #851
-~^/certifications/responsive-web-design/css-grid/use-grid-row-to-control-spacing/?$ /forum/t/freecodecamp-challenge-guide-use-grid-row-to-control-spacing/301137; #852
-~^/certifications/coding-interview-prep/algorithms/implement-quick-sort/?$ /forum/t/freecodecamp-challenge-guide-implement-quick-sort/301615; #853
-~^/certifications/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional/?$ /forum/t/freecodecamp-challenge-guide-arguments-optional/14271; #854
+#852
+#853
+#854
 ~^/agile/build-measure-learn/?$ /news/complete-guide-to-agile-methodology/; #855
 ~^/agile/sprint-planning-meetings/?$ /news/complete-guide-to-agile-methodology/; #856
 ~^/html/attributes/input-type-attribute/?$ /news/html-attributes-explained/; #857
@@ -858,23 +859,23 @@
 ~^/sql/sql-insert-into-statement/?$ /news/sql-select-statements/; #859
 ~^/machine-learning/neural-networks/generative-adversarial-networks/?$ /news/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394/; #860
 ~^/linux/user-management-on-linux/?$ /news/linux-how-to-add-users-and-create-users-with-useradd/; #861
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript/?$ /forum/t/freecodecamp-challenge-guide-add-two-numbers-with-javascript/16650; #862
+#862
 ~^/html/attributes/?$ /news/html-attributes-explained/; #863
 ~^/miscellaneous/find-the-culprit-with-git-blame/?$ /news/level-you-up-to-awesome-commit-messages-a85558cb90e8/; #864
 ~^/html/elements/footer-tag/?$ /news/html-elements-explained-what-are-html-tags/; #865
 ~^/docker/docker-build/?$ /news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/; #866
-~^/certifications/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords/?$ /forum/t/freecodecamp-challenge-guide-explore-differences-between-the-var-and-let-keywords/301202; #867
+#867
 ~^/miscellaneous/discard-unstaged-changes-in-git/?$ /news/git-checkout-explained/; #868
 ~^/devops/terraform/?$ /news/whats-in-a-name-devops-edition-c3f4e1f85dfb/; #869
 ~^/miscellaneous/installing-dependencies-for-react-with-webpack-projects/?$ /news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/; #870
 ~^/hibernate/?$ /news/hibernate-deep-dive-relations-lazy-loading-n-1-problem-common-mistakes-aff1fa390446/; #871
 ~^/javascript/standard-objects/string/string-prototype-touppercase/?$ /news/javascript-standard-objects-strings/; #872
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object/?$ /forum/t/freecodecamp-challenge-guide-use-dot-notation-to-access-the-properties-of-an-object/301333; #873
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements/?$ /forum/t/freecodecamp-challenge-guide-chaining-if-else-statements/16772; #874
+#873
+#874
 ~^/miscellaneous/learn-about-permutations/?$ /news/math-for-programmers/; #875
 ~^/machine-learning/neural-networks/convolutional-neural-networks/?$ /news/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655/; #876
-~^/certifications/coding-interview-prep/project-euler/problem-251-cardano-triplets/?$ /forum/t/freecodecamp-challenge-guide-problem-251-cardano-triplets/301899; #877
-~^/certifications/apis-and-microservices/mongodb-and-mongoose/delete-one-document-using-model.findbyidandremove/?$ /forum/t/freecodecamp-challenge-guide-delete-one-document-using-model-findbyidandremove/301539; #878
+#877
+#878
 ~^/redux/redux-sagas/?$ /news/login-using-react-redux-redux-saga-86b26c8180e/; #879
 ~^/julia/?$ /news/ismael-venegas-castello-is-a-data-analyst-and-organizer-of-the-julialanges-community-from-mexico-eeac2af0743a/; #880
 ~^/mathematics/supplementary-angles/?$ /news/math-for-programmers/; #881
@@ -889,7 +890,7 @@
 ~^/html/elements/header-tag/?$ /news/html-elements-explained-what-are-html-tags/; #890
 ~^/javascript/naming-convention-for-javascript/?$ /news/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a/; #891
 ~^/typography/color-and-tonal-value/?$ /news/typography-in-detail-point-size-em/; #892
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/combine-two-arrays-using-the-concat-method/?$ /forum/t/freecodecamp-challenge-guide-combine-two-arrays-using-the-concat-method/301229; #893
+#893
 ~^/c/math/?$ /news/maths-for-programmers/; #894
 ~^/html/semantic-html-elements/?$ /news/semantic-html5-elements/; #895
 ~^/machine-learning/natural-language-processing/?$ /news/learn-natural-language-processing-no-experience-required/; #896
@@ -897,11 +898,11 @@
 ~^/javascript/tutorials/using-anonymous-functions-for-private-namespacing-in-your-javascript-apps/?$ /news/how-to-use-anonymous-functions-for-private-namespacing-in-your-javascript-apps/; #898
 ~^/csharp/linq/?$ /news/c-sharp-24-hour-course/; #899
 ~^/machine-learning/reinforcement-learning/?$ /news/a-brief-introduction-to-reinforcement-learning-7799af5840db/; #900
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do...while-loops/?$ /news/javascript-loops-explained-for-loop-for/; #901
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally/?$ /forum/t/freecodecamp-challenge-guide-use-closure-to-protect-properties-within-an-object-from-being-modified-externally/18234; #902
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values/?$ /forum/t/freecodecamp-challenge-guide-understanding-boolean-values/301176; #903
-~^/certifications/apis-and-microservices/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning/?$ /forum/t/freecodecamp-challenge-guide-manage-npm-dependencies-by-understanding-semantic-versioning/301529; #904
-~^/certifications/coding-interview-prep/project-euler/problem-241-perfection-quotients/?$ /forum/t/freecodecamp-challenge-guide-problem-241-perfection-quotients/301888; #905
+#901
+#902
+#903
+#904
+#905
 ~^/rust/hello-world/?$ /news/learn-rust-with-github-actions/; #906
 ~^/git/git-revert/?$ /news/the-ultimate-guide-to-git-reset-and-git-revert/; #907
 ~^/css/text-align/?$ /news/how-to-center-an-image-using-text-align/; #908
@@ -914,21 +915,21 @@
 ~^/miscellaneous/equality-vs-identity-operator/?$ /news/javascript-triple-equals-sign-vs-double-equals-sign-comparison-operators-explained-with-examples/; #915
 ~^/php/xml/?$ /news/the-best-php-examples/; #916
 ~^/python/built-in-constants/?$ /news/python-example/; #917
-~^/certifications/front-end-libraries/react/manage-updates-with-lifecycle-methods/?$ /forum/t/freecodecamp-challenge-guide-use-the-lifecycle-method-componentwillmount/301423; #918
+#918
 ~^/mathematics/?$ /news/maths-for-programmers/; #919
 ~^/javascript/es6/destructuring/?$ /news/array-destructuring-in-es6-30e398f21d10/; #920
 ~^/javascript/standard-objects/map/map-prototype-entries/?$ /news/javascript-standard-objects-assign-values-hasownproperty-and-getownpropertynames-methods-explained/; #921
-~^/certifications/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation/?$ /news/javascript-algorithms-and-data-structures/; #922
+#922
 ~^/elixir/?$ /news/my-intro-to-elixir-how-learning-another-programming-language-can-make-you-a-better-developer-d967e568191c/; #923
 ~^/developer-tools/kubernetes/?$ /news/a-friendly-introduction-to-kubernetes-670c50ce4542/; #924
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself/?$ /forum/t/freecodecamp-challenge-guide-use-inheritance-so-you-dont-repeat-yourself/301334; #925
+#925
 ~^/miscellaneous/create-a-new-api-endpoint-in-angular/?$ /news/serverless-rest-api-with-angular-persistence-and-security-ff274f04e3d0/; #926
-~^/certifications/front-end-libraries/react/render-state-in-the-user-interface-another-way/?$ /forum/t/freecodecamp-challenge-guide-render-state-in-the-user-interface-another-way/301408; #927
+#927
 ~^/data-science-tools/Tableau/?$ /news/tableau-for-data-science-and-data-visualization-crash-course/; #928
-~^/certifications/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method/?$ /forum/t/freecodecamp-challenge-guide-combine-an-array-into-a-string-using-the-join-method/18221; #929
-~^/certifications/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6?$ /forum/t/freecodecamp-challenge-guide-write-concise-declarative-functions-with-es6/301224; #930
+#929
+#930
 ~^/miscellaneous/writing-good-git-commit-messages/?$ /news/writing-good-commit-messages-a-practical-guide/; #931
-~^/certifications/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests/?$ /forum/t/freecodecamp-challenge-guide-use-body-parser-to-parse-post-requests/301520; #932
+#932
 ~^/cplusplus/vector/?$ /news/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c/; #933
 ~^/sql/sql-select-distinct-statement/?$ /news/sql-select-statements/; #934
 ~^/php/hello-world/?$ /news/the-best-php-examples/; #935
@@ -956,22 +957,22 @@
 ~^/mathematics/proof-of-finite-arithmetic-series-formula-by-induction/?$ /news/math-for-programmers; #957
 ~^/natural-language-processing/?$ /news/learn-natural-language-processing-no-experience-required/; #958
 ~^/logic/monty-hall-problem/?$ /news/common-logic-puzzles-the-knights-and-knaves-monty-hall-and-dining-philosophers-problems-explained/; #959
-~^/certifications/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object/?$ /forum/t/freecodecamp-challenge-guide-use-getters-and-setters-to-control-access-to-an-object/301220; #960
+#960
 ~^/computer-science/quantum-computing/?$ /news/what-is-quantum-computing-googles-quantum-supremacy-claim-explained/; #961
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/change-the-prototype-to-a-new-object/?$ /forum/t/freecodecamp-challenge-guide-change-the-prototype-to-a-new-object/301316; #962
+#962
 ~^/c/functions/?$ /news/the-c-beginners-handbook/; #963
 ~^/javascript/es6/let-and-const/?$ /news/var-let-and-const-whats-the-difference/; #964
 ~^/agile/acceptance-criteria/?$ /news/complete-guide-to-agile-methodology/; #965
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword/?$ /forum/t/freecodecamp-challenge-guide-make-code-more-reusable-with-the-this-keyword/301321; #966
-~^/certifications/javascript-algorithms-and-data-structures/es6/prevent-object-mutation/?$ /forum/t/freecodecamp-challenge-guide-prevent-object-mutation/301207; #967
+#966
+#967
 ~^/software-engineering/?$ /news/paths-to-becoming-a-software-engineer/; #968
-~^/certifications/front-end-libraries/react/write-a-react-component-from-scratch/?$ /forum/t/freecodecamp-challenge-guide-write-a-react-component-from-scratch/301424; #969
-~^/certifications/apis-and-microservices/basic-node-and-express/get-data-from-post-requests/?$ /forum/t/freecodecamp-challenge-guide-get-data-from-post-requests/301511; #970
-~^/certifications/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods/?$ /forum/t/freecodecamp-challenge-guide-override-inherited-methods/301322; #971
-~^/certifications/front-end-libraries/react/pass-an-array-as-props/?$ /forum/t/freecodecamp-challenge-guide-pass-an-array-as-props/301401; #972
+#969
+#970
+#971
+#972
 ~^/miscellaneous/seed-data-in-angular/?$ /news/the-best-angular-examples/; #973
-~^/certifications/coding-interview-prep/project-euler/problem-239-twenty-two-foolish-primes/?$ /forum/t/freecodecamp-challenge-guide-assert-deep-equality-with-deepequal-and-notdeepequal/301587; #974
-~^/certifications/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/assert-deep-equality-with-.deepequal-and-.notdeepequal/?$ /forum/t/freecodecamp-challenge-guide-assert-deep-equality-with-deepequal-and-notdeepequal/301587; #975
+#974
+#975
 ~^/java/streams/?$ /news/best-java-8-tutorial/; #976
 ~^/agile/release-trains/?$ /news/being-agile-kanban-vs-scrum/; #977
 ~^/mathematics/factorials/?$ /news/math-for-programmers/#factorials; #978
@@ -987,13 +988,13 @@
 ~^/mathematics/fibonacci-number/?$ /news/the-fibonacci-sequence-in-5-different-programming-languages-1c6514c749e5/; #988
 ~^/css/image-galleries/?$ /news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/; #989
 ~^/java/collections/?$ /news/data-structures-101-linked-lists-254c82cf5883/; #990
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays/?$ /forum/t/freecodecamp-challenge-guide-accessing-nested-arrays/16160; #991
+#991
 ~^/mathematics/inverse-of-a-matrix-using-minors-cofactors-and-adjugate/?$ /news/math-for-programmers/; #992
 ~^/react/hello-world/?$ /news/learn-react-basics-in-10-minutes/; #993
 ~^/miscellaneous/learn-how-to-plan-your-future-project/?$ /news/plan-code-and-deploy-a-startup-in-2-hours/; #994
 ~^/ruby/ruby-numbers-operations/?$ /news/ruby-number-methods-integer-and-float-methods-with-examples/; #995
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/word-blanks/?$ /forum/t/freecodecamp-challenge-guide-word-blanks/18377; #996
+#996
 ~^/algorithms/sorting-algorithms/bucket-sort/?$ /news/sorting-algorithms-explained-with-examples-in-python-java-and-c/; #997
 ~^/machine-learning/linear-regression/?$ /news/data-science-with-python-8-ways-to-do-linear-regression-and-measure-their-speed-b5577d75f8b/; #998
-~^/certifications/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties/?$ /forum/t/freecodecamp-challenge-guide-testing-objects-for-properties/18324; #999
-~^/certifications/javascript-algorithms-and-data-structures/regular-expressions/ignore-case-while-matching/?$ /forum/t/freecodecamp-challenge-guide-ignore-case-while-matching/301344; #1000
+#999
+#1000
