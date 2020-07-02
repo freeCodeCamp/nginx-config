@@ -14,6 +14,7 @@
 ~^/support/?$ /news/support;
 ~^/terms/?$ /news/terms-of-service;
 ~^/terms-of-service/?$ /news/terms-of-service;
+~^/top-contributors/?$ /news/freecodecamp-top-contributors;
 
 # misc
 ~^/donation/settings/?$ /donate; 
