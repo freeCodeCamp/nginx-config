@@ -17,6 +17,9 @@
 ~^/top-contributors/?$ /news/freecodecamp-top-contributors;
 
 # misc
-~^/donation/settings/?$ /donate; 
-~^/welcome/?$ /; 
-~^/map/?$ /learn; 
+~^/donation/settings/?$ /donate;
+~^/welcome/?$ /;
+~^/map/?$ /learn;
+~^/map-aside/?$ /learn;
+~^/videos/? /learn;
+~^/wiki/? /learn;
