@@ -2,3 +2,5 @@ ssl/*
 *.pem
 maintenance/
 configs/
+sites-enabled/
+modules-enabled/
