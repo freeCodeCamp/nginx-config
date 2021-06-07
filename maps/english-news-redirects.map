@@ -1,8 +1,8 @@
 ~^/@(.*)$ /author/$1;
 ~^/tagged/(.*)$ /tag/$1;
 ~^/archive/(.*)$ /;
-~^/our-sponsors/? /sponsors/;
-~^/about-freecodecamp/? /about/;
+~^/our-sponsors/?$ /sponsors/;
+~^/about-freecodecamp/?$ /about/;
 ~^/how-to-make-html-hyperlinks-using-the-href-attribute-on-tags-2/?$ /html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/;
 ~^/how-to-overload-operators-in-c/?$ /how-to-overload-operators-in-cplusplus/;
 ~^/why-deno-is-a-wrong-step-in-the-future/?$ /tag/deno/;
