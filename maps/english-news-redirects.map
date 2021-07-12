@@ -2,7 +2,8 @@
 ~^/tagged/(.*)$ /tag/$1;
 ~^/archive/(.*)$ /;
 ~^/our-sponsors/?$ /sponsors/;
-~^/about-freecodecamp/?$ /about/;
+~^/tcp-vs-udp-which-is-faster/?$ /tcp-vs-udp/;
+~^/disaster-recovery-plan-what-are-rto-and-rpo/?$ /disaster-recovery-plan/;
 ~^/make-your-site-beautiful-using-web-design-principles/?$ /responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/;
 ~^/developer-community-guide/?$ /networking-for-aspiring-developers/;
 ~^/how-to-make-html-hyperlinks-using-the-href-attribute-on-tags-2/?$ /html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/;
