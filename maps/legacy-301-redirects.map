@@ -5,9 +5,6 @@
 ~^/(.*)/back-end-certification/?$ /certification/$1/legacy-back-end;
 ~^/(.*)/full-stack-certification/?$ /certification/$1/full-stack;
 
-# Legacy certification projects
-~^/.*/responsive-web-design-projects/(.*)$ /2022/responsive-web-design/$1-project/$1;
-
 # misc 
 ~^/agile/?$ /;
 ~^/all-stories/?$ /;
