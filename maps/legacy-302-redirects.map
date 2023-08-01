@@ -17,7 +17,7 @@
 ~^/top-contributors/?$ /news/freecodecamp-top-contributors;
 
 # Legacy certification projects
-~^/.*/responsive-web-design-projects/(.*)$ /2022/responsive-web-design/$1-project/$1;
+~^/.*/responsive-web-design-projects/(.*)$ /learn/2022/responsive-web-design/$1-project/$1;
 
 # misc
 ~^/donation/settings/?$ /donate;
