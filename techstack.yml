@@ -1,0 +1,33 @@
+repo_name: freeCodeCamp/nginx-config
+report_id: 2758ae1519b905209067634ac3527223
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-27T03:51:37+00:00'
+requested_by: raisedadead
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/freeCodeCamp/nginx-config
+  detection_source: Repo Metadata
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/freeCodeCamp/nginx-config/blob/main/nginx.conf
+  detection_source: nginx.conf
+  last_updated_by: root
+  last_updated_on: 2019-05-12 18:32:01.000000000 Z
