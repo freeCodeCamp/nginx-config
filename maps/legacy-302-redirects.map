@@ -24,5 +24,7 @@
 ~^/welcome/?$ /;
 ~^/map/?$ /learn;
 ~^/map-aside/?$ /learn;
-~^/videos/? /learn;
-~^/wiki/? /learn;
+~^/videos/?$ /learn;
+~^/videos/(.+)/?$ /learn;
+~^/wiki/?$ /learn;
+~^/wiki/(.+)/?$ /learn;
