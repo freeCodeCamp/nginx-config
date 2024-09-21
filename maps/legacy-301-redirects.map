@@ -9,7 +9,8 @@
 ~^/agile/?$ /;
 ~^/all-stories/?$ /;
 ~^/chat/?$ https://gitter.im/FreeCodeCamp/FreeCodeCamp;
-~^/field-guide/?(.*)?$ /;
+~^/field-guide/?$ /;
+~^/field-guide/(.+)/?$ /;
 ~^/how-nonprofit-projects-work/?$ /;
 ~^/learn-to-code/?$ /learn;
 ~*^/nonprofits(-form)?/?$ /;
