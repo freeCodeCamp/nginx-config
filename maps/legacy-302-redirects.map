@@ -8,7 +8,7 @@
 ~^/copyright-policy/?$ /news/copyright-policy;
 ~^/privacy/?$ /news/privacy-policy;
 ~^/privacy-policy/?$ /news/privacy-policy;
-~^/shop/?$ /news/shop;
+~^/shop/?$ https://shop.freecodecamp.org/;
 ~^/software-resources-for-nonprofits/?$ /news/software-resources-for-nonprofits;
 ~^/sponsors/?$ /news/sponsors;
 ~^/support/?$ /news/support;
