@@ -1,7 +1,1 @@
-Contact: https://contribute.freecodecamp.org/security
-Expires: 2025-12-31T18:30:00.000Z
-Encryption: https://flowcrypt.com/me/freecodecamp
-Encryption: https://flowcrypt.com/pub/freecodecamp?show=pubkey
-Acknowledgments: https://contribute.freecodecamp.org/security-hall-of-fame
-Preferred-Languages: en
-Policy: https://contribute.freecodecamp.org/security
+You should not be seeing this, if you are please check the Cloudflare settings which manages this file at the edge.
