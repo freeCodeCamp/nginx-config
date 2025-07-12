@@ -2,19 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /learn
 
-User-agent: GPTBot
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
-User-agent: anthropic-ai
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: Bytespider
-Disallow: /
-
 Sitemap: https://www.freecodecamp.org/news/sitemap.xml
