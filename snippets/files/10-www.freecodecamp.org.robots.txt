@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
-Disallow: /learn/*/*
 
 Sitemap: https://www.freecodecamp.org/news/sitemap.xml
